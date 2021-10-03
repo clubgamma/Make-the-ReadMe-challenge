@@ -36,7 +36,7 @@ If you don't see the "origin" remote, you can add it using the git command below
         > git remote add origin <REPO_LINK_FROM_YOUR_ACCOUNT>
 
 - Now you have to set up the upstream. write the following Git command to set up the upstream.
-> git remote add upstream https://github.com/clubgamma/Random-Meme-Generator-App.git
+> git remote add upstream https://github.com/clubgamma/Make-the-ReadMe-challenge.git
  
 - Now pull the latest changes from original repo to your local changes by firing the below command
         > git pull upstream master
