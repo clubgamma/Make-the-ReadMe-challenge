@@ -43,9 +43,9 @@ If you don't see the "origin" remote, you can add it using the git command below
   
 5. **It's Code Time now**
   
-   - Add a new folder in the root directory with your name on it.
+   - Add a new folder in the root directory with your name(add your first and last name like this YashPatel) on it.
    - Then add your ReadMe file inside that folder.
-   - aryankadiya folder is made for your reference.
+   - AryanKadiya folder is made for your reference.
 
 6. **Now it's time to save the work**
 

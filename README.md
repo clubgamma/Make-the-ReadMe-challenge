@@ -12,7 +12,7 @@ In this challenge participants have to make creative and informative readme for 
 ## How to participate
 
 1. This challenge is only for students studying in CHARUSAT.
-2. Create your profile readme and contribute to this repo, see [contributing.md]() before contributing.
+2. Create your profile readme and contribute to this repo, see [contributing.md](https://github.com/clubgamma/Make-the-ReadMe-challenge/blob/main/CONTRIBUTING.md) before contributing.
 3. The one readme which we find most creative and informative will be considered as winner and will be awarded GitHub swag.
 
   
@@ -37,7 +37,7 @@ If you are new to GitHub and have this kind of question here is a [tutorial](htt
 
 Contributions are always welcome!
 
-See [contributing.md]() for ways to get started.
+See [contributing.md](https://github.com/clubgamma/Make-the-ReadMe-challenge/blob/main/CONTRIBUTING.md) for ways to get started.
 
 Please adhere to this project's [code of conduct]().
 
