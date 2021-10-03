@@ -30,6 +30,8 @@ In this challenge participants have to make creative and informative readme for 
 
 If you are new to GitHub and have this kind of question here is a [tutorial](https://www.youtube.com/watch?v=LooNWF67jrk) for you my friend.
 
+![](https://i.kym-cdn.com/entries/icons/original/000/029/827/cover5.jpg)
+
   
 ## Contributing
 
@@ -45,6 +47,9 @@ Please adhere to this project's [code of conduct]().
 **To know more about us, visit [official website](https://clubgamma.github.io/) of Club Gamma.**
 
 **To know more about how Club Gamma is going to celebrate Hacktoberfest, click [here](https://clubgamma.github.io/hacktoberfest2021/)**
+
+
+![](https://blog.hubspot.com/hubfs/Smiling%20Leo%20Perfect%20GIF.gif)
 
 <br>
 <div align="center">  
