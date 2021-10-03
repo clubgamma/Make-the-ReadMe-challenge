@@ -49,7 +49,9 @@ Please adhere to this project's [code of conduct]().
 **To know more about how Club Gamma is going to celebrate Hacktoberfest, click [here](https://clubgamma.github.io/hacktoberfest2021/)**
 
 
-![](https://blog.hubspot.com/hubfs/Smiling%20Leo%20Perfect%20GIF.gif)
+<p align="center">
+  <img src="https://24.media.tumblr.com/4988837daade2ca54f40e1b8abc5b038/tumblr_mztezamS8s1qm9fxho1_500.gif" />
+</p>
 
 <br>
 <div align="center">  
