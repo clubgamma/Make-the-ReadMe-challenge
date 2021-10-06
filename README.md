@@ -13,7 +13,8 @@ In this challenge participants have to make creative and informative readme for 
 
 1. This challenge is only for students studying in CHARUSAT.
 2. Create your profile readme and contribute to this repo, see [contributing.md](https://github.com/clubgamma/Make-the-ReadMe-challenge/blob/main/CONTRIBUTING.md) before contributing.
-3. The one readme which we find most creative and informative will be considered as winner and will be awarded GitHub swag.
+3. Submissions are accepted till ***10th October 2021***.
+4. The one readme which we find most creative and informative will be considered as winner and will be awarded GitHub swag.
 
   
 ## Some examples of good readme's
