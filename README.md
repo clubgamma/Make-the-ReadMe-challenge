@@ -1,10 +1,9 @@
 
 # Make the ReadMe challenge
-
 Participate in Make the readme challenge if you want to win ***GitHub t-shirt swag***.
 In this challenge participants have to make creative and informative readme for their GitHub profile.
 
-
+## Accepting submissions till 10th October 2021.
 
 
 
