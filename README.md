@@ -3,16 +3,20 @@
 Participate in Make the readme challenge if you want to win ***GitHub t-shirt swag***.
 In this challenge participants have to make creative and informative readme for their GitHub profile.
 
-## Accepting submissions till 10th October 2021.
+## Accepting submissions till 30th October 2021(Extended deadline).
 
+Extended the challenge deadline only for you guys, so participate and have fun!!!!
 
+<div align = "center">
+  <img src = "https://66.media.tumblr.com/4bf3e542214f6506677cb83d1222d223/tumblr_pue8t514nr1qe8lb8o1_250.gif">
+</div>
 
 
 ## How to participate
 
 1. This challenge is only for students studying in CHARUSAT.
 2. Create your profile readme and contribute to this repo, see [contributing.md](https://github.com/clubgamma/Make-the-ReadMe-challenge/blob/main/CONTRIBUTING.md) before contributing.
-3. Submissions are accepted till ***10th October 2021***.
+3. Submissions are accepted till ***30th October 2021***.
 4. The one readme which we find most creative and informative will be considered as winner and will be awarded GitHub swag.
 
   
