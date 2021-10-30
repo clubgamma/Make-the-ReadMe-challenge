@@ -47,7 +47,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeprana12&theme=dracula" alt="deeprana12" /></p>
 
 <h2 align="center">My contributions :</h2>
-<img src="https://user-images.githubusercontent.com/69518599/138339181-4eec7180-f4a9-4834-903b-0c00f0d2623a.png"/>
+<img src="https://user-images.githubusercontent.com/69518599/139553834-4e51a942-b666-4091-8b0d-d5bca4e1754b.png"/>
 
 <h2 align="center"> Can't live without Music❤️</h2>
 <p align="center"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=c7cn420eomv42of5d7ecbgayi&cover_image=true&theme=default"/></p>
